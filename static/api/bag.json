@@ -1,0 +1,40 @@
+{
+    "success_code": 200,
+    "message": [{
+        "id": 1,
+        "name": "女鞋",
+        "img": "//t14img.yangkeduo.com/images/2019-02-15/d6c76003c80e85bd959557e4070f0464.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 2,
+        "name": "男鞋",
+        "img": "//t14img.yangkeduo.com/images/2019-03-15/1fc4393c94912d857d864c563cb49d21.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 3,
+        "name": "低帮鞋",
+        "img": "//t14img.yangkeduo.com/images/2019-04-22/3346d03a3f2594d514aa0ac1908e2c10.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 4,
+        "name": "帆布鞋",
+        "img": "//t14img.yangkeduo.com/images/2019-01-15/3a56bea100b3aceb21300d1831cd6e93.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 5,
+        "name": "凉鞋",
+        "img": "//t14img.yangkeduo.com/images/2019-04-05/f48424557e3132e0f586ecde32c5fc7b.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 6,
+        "name": "春夏新品",
+        "img": "//t14img.yangkeduo.com/images/2019-04-13/538756bda9d5c514e166483e2c12455c.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 7,
+        "name": "女包",
+        "img": "//t14img.yangkeduo.com/images/2019-02-15/be969b2820fdd2b633fdec9ae1aa1939.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 8,
+        "name": "双肩包",
+        "img": "//t14img.yangkeduo.com/images/2019-02-15/02f432fbed0468972a1f2d8665048b80.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 9,
+        "name": "功能包",
+        "img": "//t14img.yangkeduo.com/images/2019-04-01/d801db486e1b5f8917e3b4664af24962.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }]
+}

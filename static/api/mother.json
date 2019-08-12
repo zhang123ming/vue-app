@@ -1,0 +1,40 @@
+{
+    "success_code": 200,
+    "message": [{
+        "id": 1,
+        "name": "童装",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-02-27/90d88678f7464347bf97927c6435edec.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 2,
+        "name": "童鞋",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-02-27/50e028095fc5b0fba3683398f308841e.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 3,
+        "name": "玩具文娱",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-04-09/1cf6358d3a915e7c6c76c3ba3cd5ea1d.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 4,
+        "name": "宝宝尿裤",
+        "img": "//t11img.yangkeduo.com/images/2018-03-01/038eb41c80aae75b7c1343e4b7b2bc01.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 5,
+        "name": "洗护喂养",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-01-31/49d1394cba57c867cf54daf6875e538d.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 6,
+        "name": "孕妈专区",
+        "img": "//t00img.yangkeduo.com/goods/images/2018-08-13/2a0779f49285c4f41312998d1c40c50d.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 7,
+        "name": "童车同床",
+        "img": "//t00img.yangkeduo.com/goods/images/2018-08-13/2a0779f49285c4f41312998d1c40c50d.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 8,
+        "name": "奶粉辅食",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-01-29/a224bcb565d79072dbab3bb0418efdea.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }, {
+        "id": 9,
+        "name": "春夏新品",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-02-27/634cb88b441acbb1f08f622dffbeefe2.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }]
+}

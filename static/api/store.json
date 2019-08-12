@@ -1,0 +1,40 @@
+{
+    "success_code": 200,
+    "message": [{
+        "id": 1,
+        "name": "纸品湿巾",
+        "img": "//t14img.yangkeduo.com/images/2019-03-10/7e2bf0462e6860cf68a3acc5b281b740.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 2,
+        "name": "厨房烹饪",
+        "img": "//t14img.yangkeduo.com/images/2019-03-12/5372a69776a9bcb417474c1db6df33b1.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 3,
+        "name": "日用百货",
+        "img": "//t14img.yangkeduo.com/images/2019-03-17/3d8e9d30debcc123961acee8537f9307.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 4,
+        "name": "珠宝饰品",
+        "img": "//t14img.yangkeduo.com/images/2019-03-06/0bf2e42dce0685aeac39754fdac11e8c.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 5,
+        "name": "收纳整理",
+        "img": "//t14img.yangkeduo.com/images/2019-02-15/57d554d236078d8a9077fc8cd547829a.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 6,
+        "name": "洗护清洁",
+        "img": "//t14img.yangkeduo.com/images/2019-04-05/05ee392e7dfa85c0747fd70669b05ab3.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 7,
+        "name": "清洁工具",
+        "img": "//t14img.yangkeduo.com/images/2019-03-26/9d58c977d5356757974ca712522c971e.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 8,
+        "name": "水杯工具",
+        "img": "//t14img.yangkeduo.com/images/2019-03-25/c54c9d7d01cccb943ef374bdbf0c696d.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 9,
+        "name": "绿植园艺",
+        "img": "//t14img.yangkeduo.com/images/2019-03-16/ffed51e28fb751cb4eb994d2a10c7620.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp"
+    }]
+}

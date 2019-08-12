@@ -1,0 +1,40 @@
+{
+    "success_code": 200,
+    "message": [{
+        "id": 1,
+        "name": "面膜",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-06-21/31c91ee32298b8393d07ad45d8517df3.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 2,
+        "name": "面部清洁",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-06-21/0ecb3cb6da7163eb9cb5cd715efe75e2.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 3,
+        "name": "面部护理",
+        "img": "//t03img.yangkeduo.com/images/2018-03-01/e3eb82ea4b01b12e45f034a643e42349.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 4,
+        "name": "水乳面霜",
+        "img": "//t00img.yangkeduo.com/goods/images/2018-12-02/c033b2c00559af69c48cad6934fb3a66.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 5,
+        "name": "美发假发",
+        "img": "//t07img.yangkeduo.com/images/2018-03-01/a99856ad6fa5e41bd708bf5197372dee.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 6,
+        "name": "口红唇膏",
+        "img": "//t02img.yangkeduo.com/images/2018-03-01/dfe3a51d3d67b791a1f88a9a3fde3897.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 7,
+        "name": "彩妆香氛",
+        "img": "//t05img.yangkeduo.com/images/2018-03-01/3ca263213a954530a26a7dc6098ace2f.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 8,
+        "name": "身体洗护",
+        "img": "//t00img.yangkeduo.com/goods/images/2019-01-30/3efc72ec7593a45a11f483b54b2fad6e.jpeg?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }, {
+        "id": 9,
+        "name": "男士护理",
+        "img": "//t00img.yangkeduo.com/goods/images/2018-11-30/c053f9f43042cfa1849ada3298d2b5f2.png?imageMogr2/sharpen/1%7CimageView2/2/w/184/q/70/format/webp"
+    }]
+}

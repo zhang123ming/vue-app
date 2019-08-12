@@ -1,0 +1,40 @@
+{
+    "success_code": 200,
+    "message": [{
+        "id": 1,
+        "name": "//t14img.yangkeduo.com/images/2019-04-11/0dd40aa709fb3a985bf498df0ac13fe6.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "春夏新品"
+    }, {
+        "id": 2,
+        "name": "//t14img.yangkeduo.com/images/2019-03-28/2820157071dd14bdc29652e79cd2b459.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "T恤"
+    }, {
+        "id": 3,
+        "name": "//t14img.yangkeduo.com/images/2019-03-15/b98a574e7b5d88cdd0abafbccd648863.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "连衣裙"
+    }, {
+        "id": 4,
+        "name": "//t14img.yangkeduo.com/images/2019-03-12/a955b57c416acd03ce8973e72eda6bab.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "半身裙"
+    }, {
+        "id": 5,
+        "name": "//t14img.yangkeduo.com/images/2019-04-29/a7e9438328af77138ef820ca74de165a.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "套装"
+    }, {
+        "id": 6,
+        "name": "//t14img.yangkeduo.com/images/2019-05-01/7935a5cd7d8b2237ddc00f9521c9be29.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "裤装"
+    }, {
+        "id": 7,
+        "name": "//t14img.yangkeduo.com/images/2019-05-04/803ab2782ce712ace830442269fd6c7e.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "衬衫"
+    }, {
+        "id": 8,
+        "name": "//t14img.yangkeduo.com/images/2019-04-08/3835523bcea51cb90ed782419035ac63.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "蕾丝纺衫"
+    }, {
+        "id": 9,
+        "name": "//t00img.yangkeduo.com/goods/images/2019-02-17/011c4644a630179eb576ef079fe717de.png?imageMogr2/sharpen/1%7CimageView2/2/w/108/q/70/format/webp",
+        "img": "上衣外套 "
+    }]
+}
